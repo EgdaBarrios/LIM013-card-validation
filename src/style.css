@@ -1,0 +1,293 @@
+body {
+    background-image:url(images/background.gif);
+    font-family: "Arial", Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: black;
+}
+
+h3 {
+  background-color: black;
+  color: rgb(252, 206, 4);
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  text-align: left;
+  width: 310px; 
+  margin-left: 0; 
+}
+
+.description {
+  color: red;
+  font-size: medium; 
+  font-weight:bold;
+  text-shadow: 1px 1px black;
+  line-height: 0.5;
+}
+
+.message {
+  color: red;
+  font-size: small; 
+  text-shadow: 1px 1px black;
+}
+
+.go {
+  
+  font-size: small;
+}
+
+.notGo {
+  color: blue;
+  font-size: small;
+  text-decoration: underline;
+}
+
+.personalData {
+    font-size: small;
+    text-align: left;
+}
+
+header {
+  width: 290px;      
+  height: 50px; 
+  margin-top: 0px;
+  vertical-align: middle;
+  text-align: center;
+  margin-left: auto; 
+  margin-right: auto;
+  margin-bottom: 0px;
+  position: relative;
+  background-image:url();
+  background-size: cover;
+   
+}
+
+main {
+  border: 0px;
+  width: 290px;      
+  height: 400px; 
+  font:arial;
+  color:black;
+  margin-top: 0px; 
+  margin-left: auto; 
+  margin-right: auto;
+  margin-bottom: 0px;
+  padding:0%;
+  background-image:url();
+  background-size: cover;
+ 
+}
+
+footer {
+  width: 290px;      
+  height: 120px; 
+  padding-top: 70px;
+  vertical-align: middle;
+  text-align: center;
+  margin-left: auto; 
+  margin-right: auto;
+  position: relative;
+  background-image:url();
+  background-size: cover;
+ 
+}
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 8px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: medium;
+  margin: 5px 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 150px;
+  
+}
+    
+img{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: auto;
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 165.6px;
+   height: 54px;
+   margin-top: -27px; /* Half the height */
+   margin-left: -82.8px; /* Half the width */
+}
+
+.panel {
+  width: 905px;     
+  height: 785px;
+  margin-top: 0%; 
+  margin-left: 12.5%; 
+  background-image:url(images/phone2.png);
+  background-size: 93%;
+  background-repeat: no-repeat;
+  display: flex;
+  padding: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 23px;
+  height: 306px; 
+}
+.column1 {
+  float: left;
+  width: 50%;
+  padding: 0px;
+  height: 20px; 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#landingPage{
+  font:arial;
+  color:red;
+  text-align: center;
+  width: 330px;     
+  height: 540px;
+  margin-top: 1.2%; 
+  margin-left: 28.5%; 
+  background-image:url(images/jade_rivera2.jpg);
+  background-size: cover;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+
+#typePassword{
+  font:arial;
+  color:black;
+  text-align: center;
+  width: 330px;     
+  height: 540px;
+  margin-top: 1.2%; 
+  margin-left: 28.5%; 
+  background-image:url(images/fondo_pageOne.png);
+  background-size: cover;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#createAccount{
+  font:arial;
+  color:black;
+  text-align: center;
+  width: 330px;     
+  height: 540px;
+  margin-top: 1.2%; 
+  margin-left: 28.5%; 
+  background-image:url(images/fondo_pageTwo.png);
+  background-size: cover;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#confirmData{
+  font:arial;
+  color:black;
+  text-align: center;
+  width: 330px;     
+  height: 540px;
+  margin-top: 1.2%; 
+  margin-left: 28.5%; 
+  background-image:url(images/fondo_pageThree.png);
+  background-size: cover;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#addCard{
+  font:arial;
+  color:black;
+  text-align: center;
+  width: 330px;     
+  height: 540px;
+  margin-top: 1.2%; 
+  margin-left: 28.5%; 
+  background-image:url(images/fondo_pageFour.png);
+  background-size: cover;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+form {
+  margin-top: 40px;
+  box-sizing: border-box;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: medium;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.validationButton {
+  background-color: rgb(252, 206, 4);
+  display: inline-block;
+  text-align: center;
+  font-family: inherit;
+  font-size: large;
+  margin: 5px 5px;
+  cursor: pointer;
+  width: 70px;
+}
+
+.response {
+  width: 290px;      
+  height: 50px; 
+  margin-top: 10px;
+  vertical-align: middle;
+  text-align: left;
+  font-family: inherit;
+  font-size: medium;
+  margin-left: auto; 
+  margin-right: auto;
+  margin-bottom: 0px;
+  position: relative;
+     
+}
+
+
+
+
+
