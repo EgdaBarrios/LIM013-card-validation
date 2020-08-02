@@ -74,9 +74,9 @@ Página 4’:
 
 ###  PROTOTIPO
 INICIAL (papel):
-![] (images/Lukeando_prototipo_papel1.jpg)
-![] (images/Lukeando_prototipo_papel2.jpg)
-![] (images/Lukeando_prototipo_papel3.jpg)
+![] (images/Lukeando_prototipo_papel1.JPG)
+![] (images/Lukeando_prototipo_papel2.JPG)
+![] (images/Lukeando_prototipo_papel3.JPG)
 
 RESUMEN FEEDBACK:
 En el prototipo inicial, en la segunda página, se le daban al usuario las opciones de crear clave y crear cuenta como funciones separadas; como mejora se implementó en el prototipo final, la creación de clave como parte de la creación de cuenta.
