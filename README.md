@@ -1,7 +1,5 @@
-# Nombre app: LUKEANDO
+# LUKEANDO: Multiplaforma “única” de pagos
 ![] (images/Lukeando_final.png)
-
-## Multiplaforma “única” de pagos
 
 ###  CONTEXTO
 Escenario de pandemia y post-pandemia , donde el protocolo sanitario prioriza los mecanismos de mínima o nula exposición al virus SARS-COVID 19 (y otros) como el pago virtual. 
@@ -16,12 +14,12 @@ Plataforma multipagos que permite al usuario tanto recibir dinero, como debitarl
 ###  OBJETIVO (IMPORTANCIA)
 Ahorro de tiempo y recursos.
 
-####  SOLUCIÓN PLANTEADA
+###  SOLUCIÓN PLANTEADA
 Este proyecto abarca dos etapas: En la primera se crea la cuenta de usuario y la segunda es la aplicación de pago en sí.
 De acuerdo con los objetivos del ejercicio, he desarrollado la primera, donde como parte de la creación de cuenta, el usuario debe ingresar sus tarjetas, y por ende validarlas. Adicionalmente, al ingresar el número de tarjeta, y con el fin de mantener la confidencialidad, éste se enmascarará, ocultando todos los dígitos menos los últimos cuatro.
 La temática adoptada es la peruanidad. En las diferentes páginas de la aplicación se hace referencia al arte urbano local.
 
-####  CÓMO FUNCIONA?
+###  CÓMO FUNCIONA?
 La aplicación para smartphone, estará disponible en App Store y Google Play para descargar. Una vez descargada en el dispositivo, se instalará y ejecutará con la aprobación del usuario.
 La persona/negocio creará una cuenta de usuario donde ingresará y almacenará los datos de todas sus tarjetas de débito y crédito asociadas a sus cuentas bancarias, obteniendo un código QR único para cada una de ellas.
 Permitiéndole recibir dinero asociando ese código a una factura o recibo emitido en el caso de empresas; y compartiéndolo por SMS, email, chat o redes sociales para recibir transferencias al instante en el caso de personas.
