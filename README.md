@@ -1,6 +1,6 @@
 # LUKEANDO: Multiplaforma “única” de pagos
 
-![Lukeando](src\images\Lukeando_final.png)
+![Lukeando](/src/images/Lukeando_final.png)
 
 
 ## Índice
