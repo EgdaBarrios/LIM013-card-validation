@@ -108,7 +108,7 @@ La aplicación generará y enviará a los correos de usuarios asociados a ambas 
 ## 9. Prototipo
 
 ###  Inicial (papel)
-![Prototipo en papel 1](/src/images/Lukeando_prototipo_papel.jpg)
+![Prototipo en papel](/src/images/Lukeando_prototipo_papel.jpg)
 
 ###  Resumen Feedback
 En el prototipo inicial, en la segunda página, se le daban al usuario las opciones de crear clave y crear cuenta como funciones separadas; como mejora se implementó en el prototipo final, la creación de clave como parte de la creación de cuenta.
