@@ -1,5 +1,5 @@
 # LUKEANDO: Multiplaforma “única” de pagos
-![] (images/Lukeando_final.png)
+![] (/src/images/Lukeando_final.png)
 
 ###  CONTEXTO
 Escenario de pandemia y post-pandemia , donde el protocolo sanitario prioriza los mecanismos de mínima o nula exposición al virus SARS-COVID 19 (y otros) como el pago virtual. 
